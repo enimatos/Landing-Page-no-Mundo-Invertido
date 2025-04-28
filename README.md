@@ -37,7 +37,7 @@
 
 | Tema Claro | Tema Escuro |
 | :---: | :---: |
-| ![Light Theme](light-preview.png) | ![Dark Theme](dark-preview.png) |
+| ![Light Theme](https://raw.githubusercontent.com/enimatos/Landing-Page-no-Mundo-Invertido/refs/heads/main/assets/img/light-preview.png) | ![Dark Theme](https://raw.githubusercontent.com/enimatos/Landing-Page-no-Mundo-Invertido/refs/heads/main/assets/img/dark-preview.png) |
 
 ---
 
