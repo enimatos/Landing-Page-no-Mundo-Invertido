@@ -37,7 +37,7 @@
 
 | Tema Claro | Tema Escuro |
 | :---: | :---: |
-| ![Light Theme](./img/light-preview.png) | ![Dark Theme](./img/dark-preview.png) |
+| ![Light Theme](light-preview.png) | ![Dark Theme](dark-preview.png) |
 
 ---
 
